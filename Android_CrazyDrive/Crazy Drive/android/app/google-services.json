@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133530479939",
+    "project_id": "crazydrive-8803d",
+    "storage_bucket": "crazydrive-8803d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133530479939:android:18ff66ca20e32ce9fc93f6",
+        "android_client_info": {
+          "package_name": "com.example.crazy_drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133530479939-ojfrlt2mu8jl5rojeiavof5ue15kgij0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2KJuMdey1NA3BlrkP_9qAMzS2Yj0bBJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133530479939-ojfrlt2mu8jl5rojeiavof5ue15kgij0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
